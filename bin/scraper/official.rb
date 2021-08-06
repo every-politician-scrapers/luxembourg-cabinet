@@ -8,11 +8,22 @@ class MemberList
   # details for an individual member
   class Member < Scraped::HTML
     field :name do
-      noko.css('.name').text.tidy
+      "#{given_name} #{family_name}"
     end
 
     field :position do
-      noko.css('.position').text.tidy
+      noko.css('.card-description p').map(&:text).map(&:tidy).reject(&:empty?)
+    end
+
+    private
+
+    #TODO: include these in output and check WD has them set
+    def family_name
+      noko.css('.member-name').text.tidy
+    end
+
+    def given_name
+      noko.css('.member-lastname').text.tidy
     end
   end
 
@@ -28,7 +39,7 @@ class MemberList
     private
 
     def member_container
-      noko.css('.member')
+      noko.css('.organizational-charts .card')
     end
   end
 end
