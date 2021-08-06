@@ -1,2 +1,20 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
-Q561213,Xavier Bettel,Xavier Bettel,male,1973-03-03T00:00:00Z,11,,Q1344632,Prime Minister of Luxembourg,Q561213-4469B95D-68E9-4515-8CE8-14BDAA8F3300
+Q2977816,Claude Meisch,Claude Meisch,male,1971-11-27T00:00:00Z,11,,Q30107391,"minister for Education, Children and Youth",Q2977816-30304c7c-458f-e9ca-b0be-e83d206f6f84
+Q2977816,Claude Meisch,Claude Meisch,male,1971-11-27T00:00:00Z,11,,Q30139151,minister for Higher Education and Research,Q2977816-49277f44-4c1d-aef6-4fe8-3ddaecb9e6b5
+Q14525629,Etienne Schneider,Etienne Schneider,male,1971-01-29T00:00:00Z,11,,Q29217646,Deputy Prime Minister of Luxembourg,Q14525629-e94c5e28-4b7e-a663-5413-176b35914105
+Q14525629,Etienne Schneider,Etienne Schneider,male,1971-01-29T00:00:00Z,11,,Q59878021,minister of Health,Q14525629-f1e7b364-4ca9-d226-b475-abf703fbf947
+Q16439160,Franz Fayot,Franz Fayot,male,1972-02-28T00:00:00Z,11,,Q30101464,minister of the Economy,Q16439160-db2027fe-4b5f-2858-b70a-9bc0935ce4a6
+Q3083923,François Bausch,François Bausch,male,1956-10-16T00:00:00Z,11,,Q30101499,Minister of Defence,Q3083923-e2d896d0-4335-cb3d-8430-41ca72748266
+Q3083923,François Bausch,François Bausch,male,1956-10-16T00:00:00Z,11,,Q59877543,minister for Mobility and Public Works,Q3083923-01a5d51b-470d-e86f-a218-ec7126871d5f
+Q3083923,François Bausch,François Bausch,male,1956-10-16T00:00:00Z,11,,Q30101490,minister of Internal Security,Q3083923-e5bb6f62-4b5c-9c17-1bbe-f392247b6e87
+Q16439061,Lex Delles,Lex Delles,male,1984-11-28T00:00:00Z,11,,Q59864917,minister for Small and Medium-Sized Enterprises,Q16439061-f03f6e90-4d15-1332-b307-e85c0018d3ae
+Q16439061,Lex Delles,Lex Delles,male,1984-11-28T00:00:00Z,11,,Q59864950,minister for Tourism,Q16439061-0a8502d7-4d11-fe69-6518-2f6467fa5274
+Q59465834,Paulette Lenert,Paulette Lenert,female,1968-05-31T00:00:00Z,11,,Q59878021,minister of Health,Q59465834-f966bec5-4349-69a0-ec6e-feac9b0f816a
+Q13104925,Sam Tanson,Sam Tanson,female,1977-04-04T00:00:00Z,11,,Q59863254,minister for Culture,Q13104925-f595d9ba-4e00-fbed-284f-ef88f26f874e
+Q13104925,Sam Tanson,Sam Tanson,female,1977-04-04T00:00:00Z,11,,Q59877259,minister for Housing,Q13104925-e43af3e6-4a6b-c186-f067-23f74ee79f33
+Q16438964,Taina Bofferding,Taina Bofferding,female,1982-11-22T00:00:00Z,11,,Q59875958,minister for Home Affairs,Q16438964-1cbb42d3-400a-1170-248c-9a0f763b894e
+Q16438964,Taina Bofferding,Taina Bofferding,female,1982-11-22T00:00:00Z,11,,Q59870198,minister of Equality between Women and Men,Q16438964-9d3265e6-4fb1-d657-8252-531d5c749bf1
+Q561213,Xavier BETTEL,Xavier Bettel,male,1973-03-03T00:00:00Z,11,https://gouvernement.lu/en/gouvernement.html,Q1344632,"Prime Minister, Minister of State",Q561213-4469B95D-68E9-4515-8CE8-14BDAA8F3300
+Q561213,Xavier Bettel,Xavier Bettel,male,1973-03-03T00:00:00Z,11,,Q41015553,minister for Communications and Media,Q561213-05675a18-4cbf-fcd9-0642-c12757630e37
+Q561213,Xavier Bettel,Xavier Bettel,male,1973-03-03T00:00:00Z,11,,Q41014245,minister for Religious Affairs,Q561213-96db151a-4242-038a-d92e-75fd940fb81b
+Q561213,Xavier Bettel,Xavier Bettel,male,1973-03-03T00:00:00Z,11,,Q59861786,minister of State,Q561213-66911d4b-425f-8b8c-71c6-e75207eeb188

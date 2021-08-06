@@ -1,42 +1,56 @@
 @@,name,position
----,Xavier Bettel,Prime Minister of Luxembourg
+---,Xavier Bettel,minister of State
+---,Xavier Bettel,minister for Communications and Media
+---,Xavier Bettel,minister for Religious Affairs
+---,Taina Bofferding,minister of Equality between Women and Men
+---,Taina Bofferding,minister for Home Affairs
+---,Sam Tanson,minister for Culture
+---,Sam Tanson,minister for Housing
+---,Paulette Lenert,minister of Health
+---,Lex Delles,minister for Small and Medium-Sized Enterprises
+---,Lex Delles,minister for Tourism
+---,François Bausch,minister of Internal Security
+---,François Bausch,minister for Mobility and Public Works
+---,Franz Fayot,minister of the Economy
+---,Etienne Schneider,minister of Health
+---,Etienne Schneider,Deputy Prime Minister of Luxembourg
+---,Claude Meisch,minister for Higher Education and Research
+---,Claude Meisch,"minister for Education, Children and Youth"
 +++,Xavier BETTEL,Minister for Religious Affairs
-+++,Xavier BETTEL,"Prime Minister, Minister of State"
-+++,Xavier BETTEL,Minister for Communications and Media
 +++,Xavier BETTEL,Minister for Administrative Reform
++++,Xavier BETTEL,Minister for Communications and Media
 +++,Xavier BETTEL,Minister for Digitalisation
-+++,Taina BOFFERDING,Minister for Home Affairs
 +++,Taina BOFFERDING,Minister of Equality between Women and Men
-+++,Sam TANSON,Minister of Justice
++++,Taina BOFFERDING,Minister for Home Affairs
 +++,Sam TANSON,Minister for Culture
-+++,Romain SCHNEIDER,Minister of Social Security
++++,Sam TANSON,Minister of Justice
 +++,Romain SCHNEIDER,"Minister of Agriculture, Viticulture and Rural Development"
++++,Romain SCHNEIDER,Minister of Social Security
 +++,Pierre GRAMEGNA,Minister of Finance
-+++,Paulette LENERT,Minister of Health
-+++,Paulette LENERT,Minister for Consumer Protection
 +++,Paulette LENERT,Minister Delegate of Social Security
-+++,Marc HANSEN,Minister Delegate for Administrative Reform
-+++,Marc HANSEN,Minister for Relations with Parliament
++++,Paulette LENERT,Minister for Consumer Protection
++++,Paulette LENERT,Minister of Health
 +++,Marc HANSEN,Minister for the Civil Service
++++,Marc HANSEN,Minister Delegate for Administrative Reform
 +++,Marc HANSEN,Minister Delegate for Digitalisation
++++,Marc HANSEN,Minister for Relations with Parliament
 +++,Lex DELLES,Minister for Small and Medium-Sized Enterprises
 +++,Lex DELLES,Minister for Tourism
-+++,Jean ASSELBORN,Minister of Foreign and European Affairs
 +++,Jean ASSELBORN,Minister of Immigration and Asylum
-+++,Henri Kox,Minister of Internal Security
++++,Jean ASSELBORN,Minister of Foreign and European Affairs
 +++,Henri Kox,Minister for Housing
++++,Henri Kox,Minister of Internal Security
 +++,François BAUSCH,Deputy Prime Minister
 +++,François BAUSCH,Minister for Mobility and Public Works
-+++,François BAUSCH,Minister of Defence
-+++,Franz FAYOT,Minister for Development Cooperation and Humanitarian Affairs
 +++,Franz FAYOT,Minister of the Economy
++++,Franz FAYOT,Minister for Development Cooperation and Humanitarian Affairs
 +++,Dan KERSCH,Deputy Prime Minister
-+++,Dan KERSCH,"Minister of Labour, Employment and the Social and Solidarity Economy"
 +++,Dan KERSCH,Minister of Sport
-+++,Corinne CAHEN,Minister for Family Affairs and Integration
++++,Dan KERSCH,"Minister of Labour, Employment and the Social and Solidarity Economy"
 +++,Corinne CAHEN,Minister for the Greater Region
-+++,Claude TURMES,Minister for Spatial Planning
++++,Corinne CAHEN,Minister for Family Affairs and Integration
 +++,Claude TURMES,Minister for Energy
++++,Claude TURMES,Minister for Spatial Planning
 +++,Claude MEISCH,"Minister of Education, Children and Youth"
 +++,Claude MEISCH,Minister for Higher Education and Research
 +++,Carole DIESCHBOURG,"Minister for the Environment, Climate and Sustainable Development"
