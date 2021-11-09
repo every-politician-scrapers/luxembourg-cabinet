@@ -1097,6 +1097,21 @@ background: white;
 
     <script type="text/javascript" src="https://cdn.public.lu/dam-assets/ctie/orejime/v1/js/main.js"></script>
 
+    <script>
+        function cookieExists (name) {
+            var cks = document.cookie.split(';');
+            for(var i = 0; i < cks.length; i++) {
+                if (cks[i].split('=')[0].trim() === name) {
+                    return true;
+                }
+            }
+        }
+        if (!cookieExists('isPublicWebsite')) {
+            document.cookie = 'isPublicWebsite=true';
+        }
+    </script>
+
+
     <script data-main="/etc/designs/gouvernement/clientlibs/default.js" src="//cdn.public.lu/js/requirejs/2-1-1/require.js"></script>
 
     
