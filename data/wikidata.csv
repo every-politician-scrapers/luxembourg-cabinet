@@ -1,41 +1,41 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
-Q15275863,Carole DIESCHBOURG,Carole Dieschbourg,female,1977-10-03T00:00:00Z,11,https://gouvernement.lu/en/gouvernement.html,Q59871024,"Minister for the Environment, Climate and Sustainable Development",Q15275863-C3689E77-0131-473A-96B9-10B3E84D9A7B
-Q2977816,Claude MEISCH,Claude Meisch,male,1971-11-27T00:00:00Z,11,https://gouvernement.lu/en/gouvernement.html,Q30139151,Minister for Higher Education and Research,Q2977816-49277f44-4c1d-aef6-4fe8-3ddaecb9e6b5
-Q2977816,Claude MEISCH,Claude Meisch,male,1971-11-27T00:00:00Z,11,https://gouvernement.lu/en/gouvernement.html,Q30107391,"Minister of Education, Children and Youth",Q2977816-30304c7c-458f-e9ca-b0be-e83d206f6f84
-Q1097204,Claude Turmes,Claude Turmes,male,1960-11-26T00:00:00Z,11,,Q64022940,minister for Energy and Spatial Planning,Q1097204-d79cdf8c-4c42-d7fb-c5e7-01d003d93891
-Q15629005,Corinne CAHEN,Corinne Cahen,female,1973-05-16T00:00:00Z,11,https://gouvernement.lu/en/gouvernement.html,Q40880757,Minister for Family Affairs and Integration,Q15629005-F19BCE4F-894B-4CDA-85E4-7EDBC954D7D7
-Q15629005,Corinne CAHEN,Corinne Cahen,female,1973-05-16T00:00:00Z,11,https://gouvernement.lu/en/gouvernement.html,Q59874512,Minister for the Greater Region,Q15629005-5B683F3A-CC7F-4D1F-B2C4-8C5FD691003C
-Q13102261,Dan KERSCH,Dan Kersch,male,1961-12-27T00:00:00Z,11,https://gouvernement.lu/en/gouvernement.html,Q29217646,Deputy Prime Minister,Q13102261-c288bd14-4cc6-6288-496b-3a4468de7d0c
-Q13102261,Dan KERSCH,Dan Kersch,male,1961-12-27T00:00:00Z,11,https://gouvernement.lu/en/gouvernement.html,Q59878458,"Minister of Labour, Employment and the Social and Solidarity Economy",Q13102261-39A04470-6DD6-4BA9-9709-63831C5D72C0
-Q13102261,Dan KERSCH,Dan Kersch,male,1961-12-27T00:00:00Z,11,https://gouvernement.lu/en/gouvernement.html,Q59878313,Minister of Sport,Q13102261-F434E498-1356-4F0C-8631-FED0FC7E3981
-Q16439160,Franz FAYOT,Franz Fayot,male,1972-02-28T00:00:00Z,11,https://gouvernement.lu/en/gouvernement.html,Q59860556,Minister for Development Cooperation and Humanitarian Affairs,Q16439160-29094918-9B71-4A0B-92A6-8219CCD0F499
-Q16439160,Franz FAYOT,Franz Fayot,male,1972-02-28T00:00:00Z,11,https://gouvernement.lu/en/gouvernement.html,Q30101464,Minister of the Economy,Q16439160-db2027fe-4b5f-2858-b70a-9bc0935ce4a6
-Q3083923,François BAUSCH,François Bausch,male,1956-10-16T00:00:00Z,11,https://gouvernement.lu/en/gouvernement.html,Q29217646,Deputy Prime Minister,Q3083923-0babe299-4ee1-547a-8964-454cd2c84594
-Q3083923,François BAUSCH,François Bausch,male,1956-10-16T00:00:00Z,11,https://gouvernement.lu/en/gouvernement.html,Q59877543,Minister for Mobility and Public Works,Q3083923-01a5d51b-470d-e86f-a218-ec7126871d5f
-Q3083923,François BAUSCH,François Bausch,male,1956-10-16T00:00:00Z,11,https://gouvernement.lu/en/gouvernement.html,Q30101499,Minister of Defence,Q3083923-e2d896d0-4335-cb3d-8430-41ca72748266
-Q13103001,Henri Kox,Henri Kox,male,1961-05-07T00:00:00Z,11,https://gouvernement.lu/en/gouvernement.html,Q59877259,Minister for Housing,Q13103001-2B2E4483-D1D1-4E5D-8121-C53C73520FA1
-Q13103001,Henri Kox,Henri Kox,male,1961-05-07T00:00:00Z,11,https://gouvernement.lu/en/gouvernement.html,Q30101490,Minister of Internal Security,Q13103001-00BCC1B6-C822-4C30-ABF8-E6A57DFB2F76
-Q58200,Jean ASSELBORN,Jean Asselborn,male,1949-04-27T00:00:00Z,11,https://gouvernement.lu/en/gouvernement.html,Q28527071,Minister of Foreign and European Affairs,Q58200-78B456C5-F868-458A-86E6-B3F7487AA3F1
-Q58200,Jean ASSELBORN,Jean Asselborn,male,1949-04-27T00:00:00Z,11,https://gouvernement.lu/en/gouvernement.html,Q107970083,Minister of Immigration and Asylum,Q58200-22094BED-B98A-438D-B3C4-42EDA3872685
-Q16439061,Lex DELLES,Lex Delles,male,1984-11-28T00:00:00Z,11,https://gouvernement.lu/en/gouvernement.html,Q59864917,Minister for Small and Medium-Sized Enterprises,Q16439061-f03f6e90-4d15-1332-b307-e85c0018d3ae
-Q16439061,Lex DELLES,Lex Delles,male,1984-11-28T00:00:00Z,11,https://gouvernement.lu/en/gouvernement.html,Q59864950,Minister for Tourism,Q16439061-0a8502d7-4d11-fe69-6518-2f6467fa5274
-Q13104002,Marc HANSEN,Marc Hansen,male,1971-04-10T00:00:00Z,11,https://gouvernement.lu/en/gouvernement.html,Q107970077,Minister Delegate for Administrative Reform,Q13104002-0DC39826-6104-4AB5-99B7-050E1CDC061B
-Q13104002,Marc HANSEN,Marc Hansen,male,1971-04-10T00:00:00Z,11,https://gouvernement.lu/en/gouvernement.html,Q107970074,Minister Delegate for Digitalisation,Q13104002-B27D3F82-C96C-4217-A0C4-A96BDFBF6319
-Q13104002,Marc HANSEN,Marc Hansen,male,1971-04-10T00:00:00Z,11,https://gouvernement.lu/en/gouvernement.html,Q59861810,Minister for Relations with Parliament,Q13104002-68E74198-CFBF-4DC4-923F-FAD56FF14D19
-Q13104002,Marc HANSEN,Marc Hansen,male,1971-04-10T00:00:00Z,11,https://gouvernement.lu/en/gouvernement.html,Q59875525,Minister for the Civil Service,Q13104002-5C4877D2-6F2E-4D77-9FDC-329F7679E46D
-Q59465834,Paulette LENERT,Paulette Lenert,female,1968-05-31T00:00:00Z,11,https://gouvernement.lu/en/gouvernement.html,Q107970070,Minister Delegate of Social Security,Q59465834-079C9D22-A74E-4064-80DA-F83669809BC6
-Q59465834,Paulette LENERT,Paulette Lenert,female,1968-05-31T00:00:00Z,11,https://gouvernement.lu/en/gouvernement.html,Q59877755,Minister for Consumer Protection,Q59465834-4BA2B41E-EAC2-4307-A68C-9C32783AEEDD
-Q59465834,Paulette LENERT,Paulette Lenert,female,1968-05-31T00:00:00Z,11,https://gouvernement.lu/en/gouvernement.html,Q59878021,Minister of Health,Q59465834-f966bec5-4349-69a0-ec6e-feac9b0f816a
-Q15614932,Pierre GRAMEGNA,Pierre Gramegna,male,1958-04-22T00:00:00Z,11,https://gouvernement.lu/en/gouvernement.html,Q59874788,Minister of Finance,Q15614932-d5cb3a30-abdd-4b4d-9e62-2312c6c9fad4
-Q3247154,Romain SCHNEIDER,Romain Schneider,male,1962-04-15T00:00:00Z,11,https://gouvernement.lu/en/gouvernement.html,Q59862439,"Minister of Agriculture, Viticulture and Rural Development",Q3247154-C3D7D42C-96D6-4EF5-B6A9-03B8222D62EB
-Q3247154,Romain SCHNEIDER,Romain Schneider,male,1962-04-15T00:00:00Z,11,https://gouvernement.lu/en/gouvernement.html,Q59878204,Minister of Social Security,Q3247154-C56CE4AC-82B1-4DF9-859C-D1829388B37A
-Q13104925,Sam TANSON,Sam Tanson,female,1977-04-04T00:00:00Z,11,https://gouvernement.lu/en/gouvernement.html,Q59863254,Minister for Culture,Q13104925-f595d9ba-4e00-fbed-284f-ef88f26f874e
-Q13104925,Sam TANSON,Sam Tanson,female,1977-04-04T00:00:00Z,11,https://gouvernement.lu/en/gouvernement.html,Q30242784,Minister of Justice,Q13104925-AB12E783-FCF3-4562-B190-BB537786A5C1
-Q16438964,Taina BOFFERDING,Taina Bofferding,female,1982-11-22T00:00:00Z,11,https://gouvernement.lu/en/gouvernement.html,Q59875958,Minister for Home Affairs,Q16438964-1cbb42d3-400a-1170-248c-9a0f763b894e
-Q16438964,Taina BOFFERDING,Taina Bofferding,female,1982-11-22T00:00:00Z,11,https://gouvernement.lu/en/gouvernement.html,Q59870198,Minister of Equality between Women and Men,Q16438964-9d3265e6-4fb1-d657-8252-531d5c749bf1
-Q561213,Xavier BETTEL,Xavier Bettel,male,1973-03-03T00:00:00Z,11,https://gouvernement.lu/en/gouvernement.html,Q107969985,Minister for Administrative Reform,Q561213-11836CC8-A08C-45CA-A9DA-D3E5AE7F7A30
-Q561213,Xavier BETTEL,Xavier Bettel,male,1973-03-03T00:00:00Z,11,https://gouvernement.lu/en/gouvernement.html,Q41015553,Minister for Communications and Media,Q561213-05675a18-4cbf-fcd9-0642-c12757630e37
-Q561213,Xavier BETTEL,Xavier Bettel,male,1973-03-03T00:00:00Z,11,https://gouvernement.lu/en/gouvernement.html,Q107969984,Minister for Digitalisation,Q561213-C0309036-ADFF-496B-A029-0E65A8E01025
-Q561213,Xavier BETTEL,Xavier Bettel,male,1973-03-03T00:00:00Z,11,https://gouvernement.lu/en/gouvernement.html,Q41014245,Minister for Religious Affairs,Q561213-96db151a-4242-038a-d92e-75fd940fb81b
-Q561213,Xavier BETTEL,Xavier Bettel,male,1973-03-03T00:00:00Z,11,https://gouvernement.lu/en/gouvernement.html,Q1344632,"Prime Minister, Minister of State",Q561213-4469B95D-68E9-4515-8CE8-14BDAA8F3300
-Q561213,Xavier Bettel,Xavier Bettel,male,1973-03-03T00:00:00Z,11,,Q59861786,minister of State,Q561213-66911d4b-425f-8b8c-71c6-e75207eeb188
+wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,psid
+Q1097204,Claude Turmes,Claude Turmes,male,1960-11-26,11,,,Q64022940,minister for Energy and Spatial Planning,Q1097204-d79cdf8c-4c42-d7fb-c5e7-01d003d93891
+Q13102261,Dan KERSCH,Dan Kersch,male,1961-12-27,11,https://gouvernement.lu/en/gouvernement.html,2021-08-06,Q59878458,"Minister of Labour, Employment and the Social and Solidarity Economy",Q13102261-39A04470-6DD6-4BA9-9709-63831C5D72C0
+Q13102261,Dan KERSCH,Dan Kersch,male,1961-12-27,11,https://gouvernement.lu/en/gouvernement.html,2021-08-06,Q59878313,Minister of Sport,Q13102261-F434E498-1356-4F0C-8631-FED0FC7E3981
+Q13102261,Dan KERSCH,Dan Kersch,male,1961-12-27,11,https://gouvernement.lu/en/gouvernement.html,2021-08-06,Q29217646,Deputy Prime Minister,Q13102261-c288bd14-4cc6-6288-496b-3a4468de7d0c
+Q13103001,Henri Kox,Henri Kox,male,1961-05-07,11,https://gouvernement.lu/en/gouvernement.html,2021-08-06,Q30101490,Minister of Internal Security,Q13103001-00BCC1B6-C822-4C30-ABF8-E6A57DFB2F76
+Q13103001,Henri Kox,Henri Kox,male,1961-05-07,11,https://gouvernement.lu/en/gouvernement.html,2021-08-06,Q59877259,Minister for Housing,Q13103001-2B2E4483-D1D1-4E5D-8121-C53C73520FA1
+Q13104002,Marc HANSEN,Marc Hansen,male,1971-04-10,11,https://gouvernement.lu/en/gouvernement.html,2021-08-06,Q107970077,Minister Delegate for Administrative Reform,Q13104002-0DC39826-6104-4AB5-99B7-050E1CDC061B
+Q13104002,Marc HANSEN,Marc Hansen,male,1971-04-10,11,https://gouvernement.lu/en/gouvernement.html,2021-08-06,Q59875525,Minister for the Civil Service,Q13104002-5C4877D2-6F2E-4D77-9FDC-329F7679E46D
+Q13104002,Marc HANSEN,Marc Hansen,male,1971-04-10,11,https://gouvernement.lu/en/gouvernement.html,2021-08-06,Q59861810,Minister for Relations with Parliament,Q13104002-68E74198-CFBF-4DC4-923F-FAD56FF14D19
+Q13104002,Marc HANSEN,Marc Hansen,male,1971-04-10,11,https://gouvernement.lu/en/gouvernement.html,2021-08-06,Q107970074,Minister Delegate for Digitalisation,Q13104002-B27D3F82-C96C-4217-A0C4-A96BDFBF6319
+Q13104925,Sam TANSON,Sam Tanson,female,1977-04-04,11,https://gouvernement.lu/en/gouvernement.html,2021-08-06,Q30242784,Minister of Justice,Q13104925-AB12E783-FCF3-4562-B190-BB537786A5C1
+Q13104925,Sam TANSON,Sam Tanson,female,1977-04-04,11,https://gouvernement.lu/en/gouvernement.html,2021-08-06,Q59863254,Minister for Culture,Q13104925-f595d9ba-4e00-fbed-284f-ef88f26f874e
+Q15275863,Carole DIESCHBOURG,Carole Dieschbourg,female,1977-10-03,11,https://gouvernement.lu/en/gouvernement.html,2021-08-06,Q59871024,"Minister for the Environment, Climate and Sustainable Development",Q15275863-C3689E77-0131-473A-96B9-10B3E84D9A7B
+Q15614932,Pierre GRAMEGNA,Pierre Gramegna,male,1958-04-22,11,https://gouvernement.lu/en/gouvernement.html,2021-08-06,Q59874788,Minister of Finance,Q15614932-d5cb3a30-abdd-4b4d-9e62-2312c6c9fad4
+Q15629005,Corinne CAHEN,Corinne Cahen,female,1973-05-16,11,https://gouvernement.lu/en/gouvernement.html,2021-08-06,Q59874512,Minister for the Greater Region,Q15629005-5B683F3A-CC7F-4D1F-B2C4-8C5FD691003C
+Q15629005,Corinne CAHEN,Corinne Cahen,female,1973-05-16,11,https://gouvernement.lu/en/gouvernement.html,2021-08-06,Q40880757,Minister for Family Affairs and Integration,Q15629005-F19BCE4F-894B-4CDA-85E4-7EDBC954D7D7
+Q16438964,Taina BOFFERDING,Taina Bofferding,female,1982-11-22,11,https://gouvernement.lu/en/gouvernement.html,2021-08-06,Q59875958,Minister for Home Affairs,Q16438964-1cbb42d3-400a-1170-248c-9a0f763b894e
+Q16438964,Taina BOFFERDING,Taina Bofferding,female,1982-11-22,11,https://gouvernement.lu/en/gouvernement.html,2021-08-06,Q59870198,Minister of Equality between Women and Men,Q16438964-9d3265e6-4fb1-d657-8252-531d5c749bf1
+Q16439061,Lex DELLES,Lex Delles,male,1984-11-28,11,https://gouvernement.lu/en/gouvernement.html,2021-08-06,Q59864950,Minister for Tourism,Q16439061-0a8502d7-4d11-fe69-6518-2f6467fa5274
+Q16439061,Lex DELLES,Lex Delles,male,1984-11-28,11,https://gouvernement.lu/en/gouvernement.html,2021-08-06,Q59864917,Minister for Small and Medium-Sized Enterprises,Q16439061-f03f6e90-4d15-1332-b307-e85c0018d3ae
+Q16439160,Franz FAYOT,Franz Fayot,male,1972-02-28,11,https://gouvernement.lu/en/gouvernement.html,2021-08-06,Q59860556,Minister for Development Cooperation and Humanitarian Affairs,Q16439160-29094918-9B71-4A0B-92A6-8219CCD0F499
+Q16439160,Franz FAYOT,Franz Fayot,male,1972-02-28,11,https://gouvernement.lu/en/gouvernement.html,2021-08-06,Q30101464,Minister of the Economy,Q16439160-db2027fe-4b5f-2858-b70a-9bc0935ce4a6
+Q2977816,Claude MEISCH,Claude Meisch,male,1971-11-27,11,https://gouvernement.lu/en/gouvernement.html,2021-08-06,Q30107391,"Minister of Education, Children and Youth",Q2977816-30304c7c-458f-e9ca-b0be-e83d206f6f84
+Q2977816,Claude MEISCH,Claude Meisch,male,1971-11-27,11,https://gouvernement.lu/en/gouvernement.html,2021-08-06,Q30139151,Minister for Higher Education and Research,Q2977816-49277f44-4c1d-aef6-4fe8-3ddaecb9e6b5
+Q3083923,François BAUSCH,François Bausch,male,1956-10-16,11,https://gouvernement.lu/en/gouvernement.html,2021-08-06,Q59877543,Minister for Mobility and Public Works,Q3083923-01a5d51b-470d-e86f-a218-ec7126871d5f
+Q3083923,François BAUSCH,François Bausch,male,1956-10-16,11,https://gouvernement.lu/en/gouvernement.html,2021-08-06,Q29217646,Deputy Prime Minister,Q3083923-0babe299-4ee1-547a-8964-454cd2c84594
+Q3083923,François BAUSCH,François Bausch,male,1956-10-16,11,https://gouvernement.lu/en/gouvernement.html,2021-08-06,Q30101499,Minister of Defence,Q3083923-e2d896d0-4335-cb3d-8430-41ca72748266
+Q3247154,Romain SCHNEIDER,Romain Schneider,male,1962-04-15,11,https://gouvernement.lu/en/gouvernement.html,2021-08-06,Q59862439,"Minister of Agriculture, Viticulture and Rural Development",Q3247154-C3D7D42C-96D6-4EF5-B6A9-03B8222D62EB
+Q3247154,Romain SCHNEIDER,Romain Schneider,male,1962-04-15,11,https://gouvernement.lu/en/gouvernement.html,2021-08-06,Q59878204,Minister of Social Security,Q3247154-C56CE4AC-82B1-4DF9-859C-D1829388B37A
+Q561213,Xavier BETTEL,Xavier Bettel,male,1973-03-03,11,https://gouvernement.lu/en/gouvernement.html,2021-08-06,Q41015553,Minister for Communications and Media,Q561213-05675a18-4cbf-fcd9-0642-c12757630e37
+Q561213,Xavier BETTEL,Xavier Bettel,male,1973-03-03,11,https://gouvernement.lu/en/gouvernement.html,2021-08-06,Q107969985,Minister for Administrative Reform,Q561213-11836CC8-A08C-45CA-A9DA-D3E5AE7F7A30
+Q561213,Xavier BETTEL,Xavier Bettel,male,1973-03-03,11,https://gouvernement.lu/en/gouvernement.html,2021-08-06,Q1344632,"Prime Minister, Minister of State",Q561213-4469B95D-68E9-4515-8CE8-14BDAA8F3300
+Q561213,Xavier Bettel,Xavier Bettel,male,1973-03-03,11,,,Q59861786,minister of State,Q561213-66911d4b-425f-8b8c-71c6-e75207eeb188
+Q561213,Xavier BETTEL,Xavier Bettel,male,1973-03-03,11,https://gouvernement.lu/en/gouvernement.html,2021-08-06,Q41014245,Minister for Religious Affairs,Q561213-96db151a-4242-038a-d92e-75fd940fb81b
+Q561213,Xavier BETTEL,Xavier Bettel,male,1973-03-03,11,https://gouvernement.lu/en/gouvernement.html,2021-08-06,Q107969984,Minister for Digitalisation,Q561213-C0309036-ADFF-496B-A029-0E65A8E01025
+Q58200,Jean ASSELBORN,Jean Asselborn,male,1949-04-27,11,https://gouvernement.lu/en/gouvernement.html,2021-08-06,Q107970083,Minister of Immigration and Asylum,Q58200-22094BED-B98A-438D-B3C4-42EDA3872685
+Q58200,Jean ASSELBORN,Jean Asselborn,male,1949-04-27,11,https://gouvernement.lu/en/gouvernement.html,2021-08-06,Q28527071,Minister of Foreign and European Affairs,Q58200-78B456C5-F868-458A-86E6-B3F7487AA3F1
+Q59465834,Paulette LENERT,Paulette Lenert,female,1968-05-31,11,https://gouvernement.lu/en/gouvernement.html,2021-08-06,Q107970070,Minister Delegate of Social Security,Q59465834-079C9D22-A74E-4064-80DA-F83669809BC6
+Q59465834,Paulette LENERT,Paulette Lenert,female,1968-05-31,11,https://gouvernement.lu/en/gouvernement.html,2021-08-06,Q59877755,Minister for Consumer Protection,Q59465834-4BA2B41E-EAC2-4307-A68C-9C32783AEEDD
+Q59465834,Paulette LENERT,Paulette Lenert,female,1968-05-31,11,https://gouvernement.lu/en/gouvernement.html,2021-08-06,Q59878021,Minister of Health,Q59465834-f966bec5-4349-69a0-ec6e-feac9b0f816a
