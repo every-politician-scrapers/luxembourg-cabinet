@@ -1,0 +1,117 @@
+{
+  "title": "Dan Kersch",
+  "pageID": 64831175,
+  "categories": [
+    "Living people",
+    "1961 births",
+    "Place of birth missing (living people)",
+    "Luxembourgian politicians",
+    "21st-century Luxembourgian politicians",
+    "Luxembourg Socialist Workers' Party politicians",
+    "World Anti-Doping Agency members"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Daniel Kersch (born 27 December 1961) is a Luxembourgish politician and Deputy of Prime Minister of Luxembourg.",
+              "links": [
+                {
+                  "text": "Luxembourgish",
+                  "type": "internal",
+                  "page": "Luxembourg"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Daniel Kersch"
+                ]
+              }
+            },
+            {
+              "text": ", he serves as Minister of Sport and Minister of Labour, Employment and the Social and Solidarity Economy in the second Bettel–Schneider Ministry.",
+              "links": [
+                {
+                  "text": "second Bettel–Schneider Ministry",
+                  "type": "internal",
+                  "page": "second Bettel–Schneider Ministry"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:DanKersch 2015.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/DanKersch_2015.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/DanKersch_2015.jpg",
+          "caption": "Dan Kersch in 2015.",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Luxembourgish politician",
+          "template": "short description"
+        },
+        {
+          "date": "July 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "list": [
+            "2018",
+            "12",
+            "5"
+          ],
+          "template": "as of"
+        }
+      ],
+      "references": [
+        {
+          "title": "Profile",
+          "url": "https://gouvernement.lu/de/gouvernement/dan-kersch/CV.html",
+          "url-status": "live",
+          "access-date": "11 August 2020",
+          "website": "Die Luxemburger Regierung",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "The formation of the 2018 government",
+          "url": "https://gouvernement.lu/en/dossiers/2018/formation-gouvernement-2018.html",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20200630181559/https://gouvernement.lu/en/dossiers/2018/formation-gouvernement-2018.html",
+          "archive-date": "30 June 2020",
+          "access-date": "11 August 2020",
+          "website": "The Luxembourg Government",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "bettel-schneider"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "luxembourg-politician-stub"
+        }
+      ]
+    }
+  ]
+}
