@@ -412,6 +412,13 @@
           ]
         }
       ],
+      "templates": [
+        {
+          "text": "RTL Radio Lëtzebuerg",
+          "lan1": "fr",
+          "template": "ill"
+        }
+      ],
       "references": [
         {
           "lang": "de",
