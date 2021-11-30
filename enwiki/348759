@@ -38,27 +38,59 @@
       "depth": 0,
       "paragraphs": [
         {
+          "sentences": []
+        },
+        {
           "sentences": [
             {
-              "text": "Henri (Henri Albert Gabriel Félix Marie Guillaume, ; born 16 April 1955) is the Grand Duke of Luxembourg.",
-              "links": [
-                {
-                  "text": "Grand Duke of Luxembourg",
-                  "type": "internal",
-                  "page": "List of monarchs of Luxembourg"
-                }
-              ],
+              "text": "H.R.H. Grand Duke Henri Albert Gabriel Félix Marie Guillaume of Luxembourg, was born on April 16th in 1955.",
               "formatting": {
                 "bold": [
-                  "Henri"
+                  "H.R.H. Grand Duke Henri ''Albert Gabriel Félix Marie Guillaume'' of Luxembourg"
+                ],
+                "italic": [
+                  "Albert Gabriel Félix Marie Guillaume"
                 ]
               }
             },
             {
-              "text": "He has reigned since 7 October 2000."
+              "text": "He is the ruling sovereign of the country of Luxembourg.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Luxembourg"
+                }
+              ]
             },
             {
-              "text": "Henri, the eldest son of Grand Duke Jean and Princess Joséphine-Charlotte of Belgium, is a first cousin of King Philippe of Belgium.",
+              "text": "He was enthroned on October 7th in 2000."
+            },
+            {
+              "text": "Luxembourg is a country in Western Europe bordered by France, Belgium and Germany.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Western Europe"
+                },
+                {
+                  "type": "internal",
+                  "page": "France"
+                },
+                {
+                  "type": "internal",
+                  "page": "Belgium"
+                },
+                {
+                  "type": "internal",
+                  "page": "Germany"
+                }
+              ]
+            },
+            {
+              "text": "In 2019, Henri's net worth was estimated at around US$4 billion."
+            },
+            {
+              "text": "He is the eldest son of Grand Duke Jean and Princess Joséphine-Charlotte of Belgium.",
               "links": [
                 {
                   "text": "Grand Duke Jean",
@@ -69,21 +101,66 @@
                   "text": "Princess Joséphine-Charlotte of Belgium",
                   "type": "internal",
                   "page": "Princess Joséphine Charlotte of Belgium"
+                }
+              ]
+            },
+            {
+              "text": "Through bloodline, he is directly linked and connected to various European Royal houses, which include; Belgium, The Netherlands, Sweden, Austria, Liechtenstein, Portugal and Italy."
+            },
+            {
+              "text": "He is grandson to King Leopold III of Belgium and Princess Astrid of Sweden, godson to King Albert II of Belgium and first cousin to King Philippe of Belgium.",
+              "links": [
+                {
+                  "text": "King Leopold III of Belgium",
+                  "type": "internal",
+                  "page": "Leopold III of Belgium"
                 },
                 {
+                  "text": "Princess Astrid of Sweden",
+                  "type": "internal",
+                  "page": "Astrid of Sweden"
+                },
+                {
+                  "text": "King Albert II of Belgium",
+                  "type": "internal",
+                  "page": "Albert II of Belgium"
+                },
+                {
+                  "text": "King Philippe of Belgium",
                   "type": "internal",
                   "page": "Philippe of Belgium"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
-              "text": "In 2019, Henri's net worth was estimated around US$4 billion."
+              "text": "The Royal Family of Luxembourg official seat and residence is at the Grand Ducal Palace in Luxembourg City's historic center.",
+              "links": [
+                {
+                  "text": "Royal Family of Luxembourg",
+                  "type": "internal",
+                  "page": "Monarchy of Luxembourg"
+                },
+                {
+                  "text": "Grand Ducal Palace",
+                  "type": "internal",
+                  "page": "Grand Ducal Palace, Luxembourg"
+                },
+                {
+                  "type": "internal",
+                  "page": "Luxembourg City"
+                }
+              ]
             }
           ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Grand Duke Henri with his daughter Princess Alexandra.png",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Grand_Duke_Henri_with_his_daughter_Princess_Alexandra.png?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Grand_Duke_Henri_with_his_daughter_Princess_Alexandra.png",
+          "caption": "Grand Duke Henri with his daughter Princess Alexandra",
+          "links": []
         }
       ],
       "templates": [
@@ -94,11 +171,6 @@
         {
           "date": "July 2013",
           "template": "use dmy dates"
-        },
-        {
-          "spouse": "María Teresa Mestre y Batista",
-          "from": "14 February 1981",
-          "template": "marriage"
         },
         {
           "list": [
@@ -119,22 +191,15 @@
         },
         {
           "template": "luxembourger grand ducal family"
-        },
-        {
-          "transcription": "ɑ̃ˈʀi",
-          "template": "ipa"
         }
       ],
       "infoboxes": [
         {
           "name": {
-            "text": "Henri, Grand Duke of Luxembourg"
+            "text": "H.R.H. Grand Duke Henri  of Luxembourg"
           },
           "image": {
-            "text": "Henri of Luxembourg (2009).jpg"
-          },
-          "caption": {
-            "text": "Grand Duke Henri in 2009"
+            "text": "Grand Duke Henri of Luxembourg.png"
           },
           "succession": {
             "text": "Grand Duke of Luxembourg",
@@ -202,7 +267,13 @@
             "text": "3 March 1998 – 7 October 2000"
           },
           "spouse": {
-            "text": "María Teresa Mestre y Batista (m. 14 February 1981)"
+            "text": "Maria Teresa, Grand Duchess of Luxembourg",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maria Teresa, Grand Duchess of Luxembourg"
+              }
+            ]
           },
           "issue-link": {
             "text": "#Marriage and family"
@@ -281,16 +352,10 @@
       ],
       "references": [
         {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://www.businessinsider.com/royal-family-net-worth-worlds-richest-billionaires-ranked-2018-5",
-          "title": "Meet the 10 richest billionaire royals in the world right now",
-          "first": "Hillary",
           "last": "Hoffower",
+          "first": "Hillary",
+          "title": "Meet the 10 richest billionaire royals in the world right now",
+          "url": "https://www.businessinsider.com/royal-family-net-worth-worlds-richest-billionaires-ranked-2018-5",
           "website": "Business Insider",
           "template": "citation",
           "type": "web"
@@ -351,15 +416,14 @@
               ]
             },
             {
-              "text": "The prince's godparents were the Prince of Liège (his maternal uncle) and Princess Marie Gabriele (his paternal aunt).",
+              "text": "The prince's godparents were the King Albert II of Belgium (his maternal uncle) and Princess Marie Gabriele of Luxembourg (his paternal aunt).",
               "links": [
                 {
-                  "text": "Prince of Liège",
+                  "text": "King Albert II of Belgium",
                   "type": "internal",
                   "page": "Albert II of Belgium"
                 },
                 {
-                  "text": "Princess Marie Gabriele",
                   "type": "internal",
                   "page": "Princess Marie Gabriele of Luxembourg"
                 }
@@ -395,12 +459,17 @@
         {
           "sentences": [
             {
-              "text": "On 12 November 1964, when Henri was nine, his grandmother's abdication and his father's subsequent accession as grand duke made him heir apparent.",
+              "text": "On 12 November 1964, when Henri was nine, his grandmother's abdication and his father's subsequent accession as Grand Duke of Luxembourg made him heir apparent.",
               "links": [
                 {
                   "text": "abdication",
                   "type": "internal",
                   "page": "abdication"
+                },
+                {
+                  "text": "Grand Duke of Luxembourg",
+                  "type": "internal",
+                  "page": "Monarchy of Luxembourg"
                 },
                 {
                   "text": "heir apparent",
@@ -413,12 +482,6 @@
               "text": "As the grand duke's eldest son, he automatically took the title of Hereditary Grand Duke."
             }
           ]
-        }
-      ],
-      "templates": [
-        {
-          "date": "July 2020",
-          "template": "blp unsourced section"
         }
       ]
     },
@@ -472,7 +535,7 @@
         {
           "sentences": [
             {
-              "text": "While studying in Geneva, Henri met the Cuban-born María Teresa Mestre y Batista, who was also a political science student.",
+              "text": "While studying in Geneva, Henri met his wife the Cuban-born María Teresa Mestre y Batista, who was also a political science student.",
               "links": [
                 {
                   "text": "María Teresa Mestre y Batista",
@@ -482,7 +545,7 @@
               ]
             },
             {
-              "text": "They married in Luxembourg in a civil ceremony on 4 February 1981 and a religious ceremony on 14 February 1981 with the previous consent of the grand duke, dated 7 November 1980; and they remain married."
+              "text": "They married in Luxembourg in a civil ceremony on 4 February 1981 and a religious ceremony on 14 February 1981 with the previous consent of his father the grand duke, dated 7 November 1980."
             },
             {
               "text": "The couple has five children: Guillaume, Hereditary Grand Duke of Luxembourg, Prince Félix of Luxembourg, Prince Louis of Luxembourg, Princess Alexandra of Luxembourg, and Prince Sébastien of Luxembourg.",
@@ -511,12 +574,6 @@
             }
           ]
         }
-      ],
-      "templates": [
-        {
-          "date": "July 2020",
-          "template": "blp unsourced section"
-        }
       ]
     },
     {
@@ -534,7 +591,7 @@
                   "page": "heir apparent"
                 },
                 {
-                  "text": "Charlotte of Luxembourg",
+                  "text": "Grand Duchess Charlotte of Luxembourg",
                   "type": "internal",
                   "page": "Charlotte, Grand Duchess of Luxembourg"
                 }
@@ -580,21 +637,14 @@
           "file": "File:GrandDuc epouse heritier.jpg",
           "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/GrandDuc_epouse_heritier.jpg?width=300",
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/GrandDuc_epouse_heritier.jpg",
-          "caption": "The Grand Duke with his wife and heir apparent",
-          "links": []
-        },
-        {
-          "file": "File:Henri, Grand Duke of Luxembourg.jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Henri%2C_Grand_Duke_of_Luxembourg.jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Henri%2C_Grand_Duke_of_Luxembourg.jpg",
-          "caption": "The Grand Duke with his son Félix in New York during 2013 United Nations session",
+          "caption": "The Grand Duke with his wife The Grand Duchess and heir Prince Guillaume",
           "links": []
         }
       ]
     },
     {
       "title": "Euthanasia and constitutional reform controversies",
-      "depth": 1,
+      "depth": 0,
       "paragraphs": [
         {
           "sentences": [
@@ -670,6 +720,15 @@
               "text": "The head of state no longer has to \"sanction\" laws for them to take effect, as the officeholder merely promulgates them."
             }
           ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Grand Duke Henri and Princess Alexandra with the Emperor and Empress of Japan.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Grand_Duke_Henri_and_Princess_Alexandra_with_the_Emperor_and_Empress_of_Japan.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Grand_Duke_Henri_and_Princess_Alexandra_with_the_Emperor_and_Empress_of_Japan.jpg",
+          "caption": "Grand Duke Henri and Princess Alexandra with the Emperor and Empress of Japan",
+          "links": []
         }
       ],
       "references": [
@@ -780,7 +839,7 @@
               "text": "One of the grand duke's main functions is to represent Luxembourg in the field of foreign affairs."
             },
             {
-              "text": "In May 2001, Grand Duke Henri and Grand Duchess Maria Teresa undertook their first foreign state visit to Spain at the invitation of King Juan Carlos and Queen Sofía of Spain.",
+              "text": "In May 2001, Grand Duke Henri and Grand Duchess Maria Teresa undertook their first foreign state visit to Spain at the invitation of King Juan Carlos and Queen Sofía of Spain.Grand Duke Henri is a member of the International Olympic Committee (IOC), a member of The Mentor Foundation (established by the World Health Organization) and a director of the Charles Darwin Trust for the Galápagos Islands.",
               "links": [
                 {
                   "text": "King Juan Carlos",
@@ -790,16 +849,7 @@
                 {
                   "type": "internal",
                   "page": "Queen Sofía of Spain"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Grand Duke Henri is a member of the International Olympic Committee (IOC), a member of The Mentor Foundation (established by the World Health Organization) and a director of the Charles Darwin Trust for the Galápagos Islands.",
-              "links": [
+                },
                 {
                   "type": "internal",
                   "page": "International Olympic Committee"
@@ -845,10 +895,17 @@
       ],
       "images": [
         {
-          "file": "File:Vladimir Putin in Luxembourg 24 May 2007-10.jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Vladimir_Putin_in_Luxembourg_24_May_2007-10.jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Vladimir_Putin_in_Luxembourg_24_May_2007-10.jpg",
-          "caption": "Grand Duke Henri with Russian President Vladimir Putin in May 2007",
+          "file": "File:Henri, Grand Duke of Luxembourg.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Henri%2C_Grand_Duke_of_Luxembourg.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Henri%2C_Grand_Duke_of_Luxembourg.jpg",
+          "caption": "The Grand Duke with his son Prince Félix in New York during 2013 United Nations session",
+          "links": []
+        },
+        {
+          "file": "File:The Grand Duke and Grand Duchess of Luxembourg.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/The_Grand_Duke_and_Grand_Duchess_of_Luxembourg.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/The_Grand_Duke_and_Grand_Duchess_of_Luxembourg.jpg",
+          "caption": "The Grand Duke and Grand Duchess at the wedding of the Crown Princess of Sweden in 2010",
           "links": []
         }
       ],
@@ -883,6 +940,11 @@
                   "text": "Grand Duchess Maria Teresa",
                   "type": "internal",
                   "page": "Maria Teresa, Grand Duchess of Luxembourg"
+                },
+                {
+                  "text": "Grand Duchess Joséphine-Charlotte",
+                  "type": "internal",
+                  "page": "Princess Joséphine Charlotte of Belgium"
                 }
               ]
             }
@@ -923,7 +985,7 @@
               ]
             },
             {
-              "text": "The proposed sale of large tracts of the Gruenewald in the summer of 2006 was shortly followed by the proposed sale (cancelled shortly afterwards) at Sotheby's of recently deceased Grand Duchess Joséphine-Charlotte's effects.",
+              "text": "The proposed sale of large tracts of the Gruenewald in the summer of 2006 and important jewels was shortly followed by the proposed sale (cancelled shortly afterwards) at Sotheby's of recently deceased Grand Duchess Joséphine-Charlotte's effects.",
               "links": [
                 {
                   "text": "Gruenewald",
@@ -937,15 +999,6 @@
               ]
             }
           ]
-        }
-      ],
-      "images": [
-        {
-          "file": "File:The Grand Duke and Grand Duchess of Luxembourg.jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/The_Grand_Duke_and_Grand_Duchess_of_Luxembourg.jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/The_Grand_Duke_and_Grand_Duchess_of_Luxembourg.jpg",
-          "caption": "The Grand Duke and Grand Duchess at the wedding of the Crown Princess of Sweden in 2010",
-          "links": []
         }
       ],
       "references": [
@@ -979,7 +1032,7 @@
     },
     {
       "title": "Waringo report",
-      "depth": 1,
+      "depth": 0,
       "paragraphs": [
         {
           "sentences": [
@@ -993,7 +1046,14 @@
               "text": "It noted that internal communications were almost nonexistent."
             },
             {
-              "text": "Waringo indicated that the most important staff decisions were made by the Grand Duchess."
+              "text": "Waringo indicated that the most important staff decisions were made by his wife the Grand Duchess Maria Teresa of Luxembourg.",
+              "links": [
+                {
+                  "text": "Grand Duchess Maria Teresa of Luxembourg",
+                  "type": "internal",
+                  "page": "Maria Teresa, Grand Duchess of Luxembourg"
+                }
+              ]
             },
             {
               "text": "There was no division of staff for personal use and that for official functions."
@@ -1002,12 +1062,21 @@
               "text": "Waringo was also not able to determine if the royal couple's private activities were financed by the State or not."
             },
             {
-              "text": "The report calls for a reform of the monarchy."
+              "text": "The report called for a reform of the monarchy."
             },
             {
-              "text": "The Court responded that \"(i)n the interests of greater transparency and modernization, the Court will contribute constructively to the implementation of the improvements proposed in this report.\""
+              "text": "The Court responded that \"(i)n the interests of greater transparency and modernization, the Court will contribute constructively to the implementation of the improvements proposed in the report.\""
             }
           ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Vladimir Putin in Luxembourg 24 May 2007-10.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Vladimir_Putin_in_Luxembourg_24_May_2007-10.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Vladimir_Putin_in_Luxembourg_24_May_2007-10.jpg",
+          "caption": "Grand Duke Henri with Russian President Vladimir Putin in May 2007",
+          "links": []
         }
       ],
       "references": [
@@ -1076,12 +1145,6 @@
               "text": "It was then that he was rushed to hospital, to the cardiac unit, and was discharged the following day."
             }
           ]
-        }
-      ],
-      "templates": [
-        {
-          "date": "June 2018",
-          "template": "blp unsourced section"
         }
       ]
     },
@@ -1165,10 +1228,6 @@
         }
       ],
       "templates": [
-        {
-          "date": "July 2020",
-          "template": "more citations needed"
-        },
         {
           "list": [
             "Italy"
