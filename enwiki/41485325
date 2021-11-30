@@ -153,21 +153,6 @@
           "inline": {}
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "commons category"
-        },
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "bettel-schneider"
-        }
-      ]
     }
   ]
 }

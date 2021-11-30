@@ -155,55 +155,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "Footnotes",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        }
-      ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "list": [
-            "fr"
-          ],
-          "template": "in lang"
-        },
-        {
-          "template": "juncker-asselborn ii"
-        },
-        {
-          "template": "bettel-schneider"
-        },
-        {
-          "template": "luxembourg-mayor-stub"
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Chamber of Deputies official biography",
-            "links": [
-              {
-                "text": "Chamber of Deputies official biography",
-                "type": "external",
-                "site": "http://www.chd.lu/fr/organisation/membres/membres.jsp?ID=316"
-              }
-            ]
-          }
-        ]
-      ]
     }
   ]
 }
