@@ -38,59 +38,27 @@
       "depth": 0,
       "paragraphs": [
         {
-          "sentences": []
-        },
-        {
           "sentences": [
             {
-              "text": "H.R.H. Grand Duke Henri Albert Gabriel Félix Marie Guillaume of Luxembourg, was born on April 16th in 1955.",
+              "text": "Henri (Henri Albert Gabriel Félix Marie Guillaume, ; born 16 April 1955) is the Grand Duke of Luxembourg.",
+              "links": [
+                {
+                  "text": "Grand Duke of Luxembourg",
+                  "type": "internal",
+                  "page": "List of monarchs of Luxembourg"
+                }
+              ],
               "formatting": {
                 "bold": [
-                  "H.R.H. Grand Duke Henri ''Albert Gabriel Félix Marie Guillaume'' of Luxembourg"
-                ],
-                "italic": [
-                  "Albert Gabriel Félix Marie Guillaume"
+                  "Henri"
                 ]
               }
             },
             {
-              "text": "He is the ruling sovereign of the country of Luxembourg.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Luxembourg"
-                }
-              ]
+              "text": "He has reigned since 7 October 2000."
             },
             {
-              "text": "He was enthroned on October 7th in 2000."
-            },
-            {
-              "text": "Luxembourg is a country in Western Europe bordered by France, Belgium and Germany.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Western Europe"
-                },
-                {
-                  "type": "internal",
-                  "page": "France"
-                },
-                {
-                  "type": "internal",
-                  "page": "Belgium"
-                },
-                {
-                  "type": "internal",
-                  "page": "Germany"
-                }
-              ]
-            },
-            {
-              "text": "In 2019, Henri's net worth was estimated at around US$4 billion."
-            },
-            {
-              "text": "He is the eldest son of Grand Duke Jean and Princess Joséphine-Charlotte of Belgium.",
+              "text": "Henri, the eldest son of Grand Duke Jean and Princess Joséphine-Charlotte of Belgium, is a first cousin of King Philippe of Belgium.",
               "links": [
                 {
                   "text": "Grand Duke Jean",
@@ -101,66 +69,21 @@
                   "text": "Princess Joséphine-Charlotte of Belgium",
                   "type": "internal",
                   "page": "Princess Joséphine Charlotte of Belgium"
-                }
-              ]
-            },
-            {
-              "text": "Through bloodline, he is directly linked and connected to various European Royal houses, which include; Belgium, The Netherlands, Sweden, Austria, Liechtenstein, Portugal and Italy."
-            },
-            {
-              "text": "He is grandson to King Leopold III of Belgium and Princess Astrid of Sweden, godson to King Albert II of Belgium and first cousin to King Philippe of Belgium.",
-              "links": [
-                {
-                  "text": "King Leopold III of Belgium",
-                  "type": "internal",
-                  "page": "Leopold III of Belgium"
                 },
                 {
-                  "text": "Princess Astrid of Sweden",
-                  "type": "internal",
-                  "page": "Astrid of Sweden"
-                },
-                {
-                  "text": "King Albert II of Belgium",
-                  "type": "internal",
-                  "page": "Albert II of Belgium"
-                },
-                {
-                  "text": "King Philippe of Belgium",
                   "type": "internal",
                   "page": "Philippe of Belgium"
                 }
               ]
-            },
-            {
-              "text": "The Royal Family of Luxembourg official seat and residence is at the Grand Ducal Palace in Luxembourg City's historic center.",
-              "links": [
-                {
-                  "text": "Royal Family of Luxembourg",
-                  "type": "internal",
-                  "page": "Monarchy of Luxembourg"
-                },
-                {
-                  "text": "Grand Ducal Palace",
-                  "type": "internal",
-                  "page": "Grand Ducal Palace, Luxembourg"
-                },
-                {
-                  "type": "internal",
-                  "page": "Luxembourg City"
-                }
-              ]
             }
           ]
-        }
-      ],
-      "images": [
+        },
         {
-          "file": "File:Grand Duke Henri with his daughter Princess Alexandra.png",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Grand_Duke_Henri_with_his_daughter_Princess_Alexandra.png?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Grand_Duke_Henri_with_his_daughter_Princess_Alexandra.png",
-          "caption": "Grand Duke Henri with his daughter Princess Alexandra",
-          "links": []
+          "sentences": [
+            {
+              "text": "In 2019, Henri's net worth was estimated around US$4 billion."
+            }
+          ]
         }
       ],
       "templates": [
@@ -171,6 +94,11 @@
         {
           "date": "July 2013",
           "template": "use dmy dates"
+        },
+        {
+          "spouse": "María Teresa Mestre y Batista",
+          "from": "14 February 1981",
+          "template": "marriage"
         },
         {
           "list": [
@@ -191,15 +119,22 @@
         },
         {
           "template": "luxembourger grand ducal family"
+        },
+        {
+          "transcription": "ɑ̃ˈʀi",
+          "template": "ipa"
         }
       ],
       "infoboxes": [
         {
           "name": {
-            "text": "H.R.H. Grand Duke Henri  of Luxembourg"
+            "text": "Henri"
           },
           "image": {
-            "text": "Grand Duke Henri of Luxembourg.png"
+            "text": "Henri of Luxembourg (2009).jpg"
+          },
+          "caption": {
+            "text": "Grand Duke Henri in 2009"
           },
           "succession": {
             "text": "Grand Duke of Luxembourg",
@@ -267,13 +202,7 @@
             "text": "3 March 1998 – 7 October 2000"
           },
           "spouse": {
-            "text": "Maria Teresa, Grand Duchess of Luxembourg",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Maria Teresa, Grand Duchess of Luxembourg"
-              }
-            ]
+            "text": "María Teresa Mestre y Batista (m. 14 February 1981)"
           },
           "issue-link": {
             "text": "#Marriage and family"
@@ -309,9 +238,10 @@
             ]
           },
           "mother": {
-            "text": "Princess Joséphine Charlotte of Belgium",
+            "text": "Joséphine-Charlotte of Belgium",
             "links": [
               {
+                "text": "Joséphine-Charlotte of Belgium",
                 "type": "internal",
                 "page": "Princess Joséphine Charlotte of Belgium"
               }
@@ -352,10 +282,16 @@
       ],
       "references": [
         {
-          "last": "Hoffower",
-          "first": "Hillary",
-          "title": "Meet the 10 richest billionaire royals in the world right now",
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
           "url": "https://www.businessinsider.com/royal-family-net-worth-worlds-richest-billionaires-ranked-2018-5",
+          "title": "Meet the 10 richest billionaire royals in the world right now",
+          "first": "Hillary",
+          "last": "Hoffower",
           "website": "Business Insider",
           "template": "citation",
           "type": "web"
