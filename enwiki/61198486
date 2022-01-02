@@ -126,58 +126,6 @@
           "description": "Luxembourgish politician",
           "template": "short description"
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.lequotidien.lu/a-la-une/luxembourg-les-noms-du-nouveau-gouvernement/",
-          "title": "Luxembourg : les noms du nouveau gouvernement",
-          "last": "Gamelon",
-          "first": "Hubert",
-          "website": "Le Quotidien",
-          "language": "fr-FR",
-          "access-date": "2019-07-02",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://gouvernement.lu/en/gouvernement/bofferding-taina.html",
-          "title": "Bofferding, Taina",
-          "date": "2018-04-12",
-          "website": "gouvernement.lu",
-          "language": "fr",
-          "access-date": "2019-07-02",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.lsap.lu/fr/membre/taina-bofferding/",
-          "title": "Taina Bofferding",
-          "website": "LSAP d'Sozialisten",
-          "language": "fr",
-          "access-date": "2019-07-02",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://humanists.international/2010/11/luxembourg-launches-humanist-association/",
-          "title": "Luxembourg launches Humanist association",
-          "date": "2010-11-03",
-          "work": "Humanists International",
-          "access-date": "2019-07-02",
-          "language": "en-US",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://gouvernement.lu/en/gouvernement/bofferding-taina/CV.html",
-          "title": "Biographie",
-          "date": "2012-06-12",
-          "website": "gouvernement.lu",
-          "language": "fr",
-          "access-date": "2019-07-02",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

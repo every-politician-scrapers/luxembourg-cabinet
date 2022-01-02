@@ -301,60 +301,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.vdl.lu/Politique+et+Administration/Bourgmestre/Xavier+Bettel.html",
-          "title": "Xavier Bettel",
-          "publisher": "Ville de Luxembourg",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20131019084445/http://www.vdl.lu/Politique+et+Administration/Bourgmestre/Xavier+Bettel.html",
-          "archive-date": "19 October 2013",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.huffingtonpost.com/2013/12/04/xavier-bettel-gay-luxembourg-_n_4384748.html",
-          "title": "Xavier Bettel Is Luxembourg's First Gay Prime Minister",
-          "last": "Reuters",
-          "date": "4 December 2013",
-          "work": "Huffington Post",
-          "access-date": "20 November 2017",
-          "language": "en-US",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last1": "Anderson",
-          "first1": "Emma",
-          "title": "Xavier Bettel asked to form next Luxembourg government",
-          "url": "https://www.politico.eu/article/xavier-bettel-asked-to-form-next-luxembourg-government/",
-          "work": "POLITICO",
-          "date": "16 October 2018",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Bettel appointed 'formateur' of new government",
-          "url": "https://luxtimes.lu/luxembourg/35309-bettel-appointed-formateur-of-new-government",
-          "work": "luxtimes.lu",
-          "date": "16 October 2018",
-          "language": "en",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Xavier Bettel",
-          "url": "http://www.gouvernement.lu/3305444/CV",
-          "work": "Bettel, Xavier: Biographie",
-          "publisher": "Gouvernement du Grand Duché de Luxembourg",
-          "access-date": "9 December 2013",
-          "archive-url": "https://web.archive.org/web/20140227094906/http://www.gouvernement.lu/3305444/CV",
-          "archive-date": "27 February 2014",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

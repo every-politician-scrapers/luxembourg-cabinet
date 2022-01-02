@@ -63,28 +63,6 @@
           ],
           "template": "as of"
         }
-      ],
-      "references": [
-        {
-          "title": "Profile",
-          "url": "https://gouvernement.lu/en/gouvernement/delles-lex.html",
-          "url-status": "live",
-          "access-date": "11 August 2020",
-          "website": "The Luxembourg Government",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "The formation of the 2018 government",
-          "url": "https://gouvernement.lu/en/dossiers/2018/formation-gouvernement-2018.html",
-          "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20200630181559/https://gouvernement.lu/en/dossiers/2018/formation-gouvernement-2018.html",
-          "archive-date": "30 June 2020",
-          "access-date": "11 August 2020",
-          "website": "The Luxembourg Government",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

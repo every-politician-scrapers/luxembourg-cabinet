@@ -151,37 +151,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "date": "2018-06-12",
-          "title": "Passation des pouvoirs de Fernand Etgen à Romain Schneider et Paulette Lenert au ministère de l'Agriculture, de la Viticulture et du Développement rural",
-          "url": "https://gouvernement.lu/fr/actualites/toutes_actualites/communiques/2018/12-decembre/06-passation-etgen-schneider.html",
-          "access-date": "2020-09-01",
-          "website": "gouvernement.lu",
-          "language": "fr",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2020-08-29",
-          "title": "Luxemburgo. O assunto da \"aplicação corona\" está de regresso",
-          "url": "https://www.wort.lu/pt/luxemburgo/luxemburgo-o-assunto-da-aplicac-o-corona-est-de-regresso-5f4a0cf4da2cc1784e36498d",
-          "access-date": "2020-09-01",
-          "website": "Wort.lu",
-          "language": "pt",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Photo Gallery: Huge selection of images from Luxembourg's National Day celebrations",
-          "url": "https://today.rtl.lu/news/luxembourg/a/1539027.html",
-          "access-date": "2020-09-01",
-          "website": "today.rtl.lu",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

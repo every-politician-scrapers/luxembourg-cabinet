@@ -92,31 +92,6 @@
           "bot": "PearBOT 5",
           "template": "short description"
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.gouvernement.lu/3453221/CV-en",
-          "title": "Dieschbourg, Carole",
-          "publisher": "Gouvernement.lu",
-          "date": "2 May 2014",
-          "accessdate": "8 November 2016",
-          "archive-url": "https://web.archive.org/web/20161108195247/http://www.gouvernement.lu/3453221/CV-en",
-          "archive-date": "8 November 2016",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.lequotidien.lu/politique-et-societe/carole-dieschbourg-la-cop22-sera-celle-de-laction/",
-          "title": "Carole Dieschbourg : \" La COP22 sera celle de l'action \"",
-          "author": "Van Dyck, Romain",
-          "publisher": "Le Quotidien",
-          "date": "7 November 2016",
-          "accessdate": "8 November 2016",
-          "language": "French",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
