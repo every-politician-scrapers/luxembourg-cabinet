@@ -133,25 +133,6 @@
           "date": "December 2013",
           "template": "blp sources"
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.gouvernement.lu/3305790/CV",
-          "title": "Biographie - gouvernement.lu // L'actualité du gouvernement du Luxembourg",
-          "publisher": "Gouvernement.lu",
-          "accessdate": "2014-01-03",
-          "archive-url": "https://web.archive.org/web/20131230234727/http://www.gouvernement.lu/3305790/CV",
-          "archive-date": "2013-12-30",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]
