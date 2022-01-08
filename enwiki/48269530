@@ -17,10 +17,10 @@
         {
           "sentences": [
             {
-              "text": "Pierre Gramegna (born 22 April 1958) is a career diplomat and former lobbyist who is currently the Minister for Finances in the Bettel–Schneider ministry.",
+              "text": "Pierre Gramegna (born 22 April 1958) is a career diplomat and former lobbyist who is the former Minister for Finances in the Bettel–Schneider ministry.",
               "links": [
                 {
-                  "text": "Minister for Finances",
+                  "text": "former Minister for Finances",
                   "type": "internal",
                   "page": "List of Ministers for Finances of Luxembourg"
                 },
@@ -81,6 +81,9 @@
           "term_start": {
             "text": "4 December 2013"
           },
+          "term_end": {
+            "text": "4 January 2022"
+          },
           "predecessor": {
             "text": "Luc Frieden",
             "links": [
@@ -89,6 +92,9 @@
                 "page": "Luc Frieden"
               }
             ]
+          },
+          "successor": {
+            "text": "Yuriko Backes"
           },
           "birth_date": {
             "text": "April 22, 1958"

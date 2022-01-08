@@ -21,14 +21,13 @@
         {
           "sentences": [
             {
-              "text": "Paulette Lenert (born on 31 May 1968 in Luxembourg City) is a Luxembourgish lawyer and politician of the Luxembourg Socialist Workers' Party.",
+              "text": "Paulette Lenert (born on 31 May 1968 in Luxembourg City) is a Luxembourg lawyer and politician of the Luxembourg Socialist Workers' Party.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Luxembourg City"
                 },
                 {
-                  "text": "Luxembourgish",
                   "type": "internal",
                   "page": "Luxembourg"
                 },
@@ -44,20 +43,17 @@
               }
             },
             {
-              "text": "She has been Luxembourg's Minister of Development Cooperation and Humanitarian Affairs and Minister of Consumer Protection within the Bettel–Schneider Ministry II since 5 December 2018.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Bettel–Schneider Ministry II"
-                }
-              ]
+              "text": "She currently holds the positions of Deputy Prime Minister, Minister of Health, Minister Delegate of Social Security, and Minister of Consumer Protection."
+            },
+            {
+              "text": "She was Minister of Development Cooperation and Humanitarian Affairs from 5 December 2018 to 4 February 2020."
             }
           ]
         }
       ],
       "templates": [
         {
-          "description": "Luxembourgish lawyer and politician",
+          "description": "Luxembourg lawyer and politician",
           "template": "short description"
         },
         {
