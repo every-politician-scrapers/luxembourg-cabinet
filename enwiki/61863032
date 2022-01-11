@@ -69,8 +69,11 @@
           "name": {
             "text": "Paulette Lenert"
           },
+          "image": {
+            "text": "Paulette Lenert (cropped).jpg"
+          },
           "office": {
-            "text": "Minister of Development Cooperation and Humanitarian Affairs"
+            "text": "Deputy Prime Minister of Luxembourg"
           },
           "primeminister": {
             "text": "Xavier Bettel",
@@ -82,31 +85,19 @@
             ]
           },
           "term_start": {
-            "text": "5 December 2018"
-          },
-          "term_end": {
-            "text": "4 February 2020"
+            "text": "5 January 2022"
           },
           "predecessor": {
-            "text": "Romain Schneider",
+            "text": "Dan Kersch",
             "links": [
               {
                 "type": "internal",
-                "page": "Romain Schneider"
-              }
-            ]
-          },
-          "successor": {
-            "text": "Franz Fayot",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Franz Fayot"
+                "page": "Dan Kersch"
               }
             ]
           },
           "office2": {
-            "text": "Minister of Consumer Protection of Luxembourg"
+            "text": "Minister of Health"
           },
           "primeminister2": {
             "text": "Xavier Bettel",
@@ -121,16 +112,16 @@
             "text": "4 February 2020"
           },
           "predecessor2": {
-            "text": "Fernand Etgen",
+            "text": "Etienne Schneider",
             "links": [
               {
                 "type": "internal",
-                "page": "Fernand Etgen"
+                "page": "Etienne Schneider"
               }
             ]
           },
           "office3": {
-            "text": "Minister of Health"
+            "text": "Minister of Consumer Protection of Luxembourg"
           },
           "primeminister3": {
             "text": "Xavier Bettel",
@@ -142,14 +133,50 @@
             ]
           },
           "term_start3": {
-            "text": "4 February 2020"
+            "text": "5 December 2018"
           },
           "predecessor3": {
-            "text": "Etienne Schneider",
+            "text": "Fernand Etgen",
             "links": [
               {
                 "type": "internal",
-                "page": "Etienne Schneider"
+                "page": "Fernand Etgen"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Minister of Development Cooperation and Humanitarian Affairs"
+          },
+          "primeminister4": {
+            "text": "Xavier Bettel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Xavier Bettel"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "5 December 2018"
+          },
+          "term_end4": {
+            "text": "4 February 2020"
+          },
+          "predecessor4": {
+            "text": "Romain Schneider",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Romain Schneider"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Franz Fayot",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Franz Fayot"
               }
             ]
           },
