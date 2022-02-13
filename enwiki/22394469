@@ -274,6 +274,10 @@
           "template": "short description"
         },
         {
+          "date": "February 2022",
+          "template": "use dmy dates"
+        },
+        {
           "year": "1956",
           "month": "3",
           "day": "10",
