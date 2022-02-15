@@ -68,7 +68,7 @@
               ]
             },
             {
-              "text": "She then worked as a journalist for the AFP and Radio France Internationale, which included a period as a White House correspondent in Washington, D.C..",
+              "text": "She then worked as a journalist for the AFP and Radio France Internationale, which included a period as a White House correspondent in Washington, D.C. After her return to Luxembourg, she worked for Eldoradio, RTL Radio, and her family's shoe business.",
               "links": [
                 {
                   "text": "AFP",
@@ -86,12 +86,7 @@
                 {
                   "type": "internal",
                   "page": "Washington, D.C."
-                }
-              ]
-            },
-            {
-              "text": "After her return to Luxembourg, she worked for Eldoradio, RTL Radio, and her family's shoe business.",
-              "links": [
+                },
                 {
                   "type": "internal",
                   "page": "RTL Radio"
