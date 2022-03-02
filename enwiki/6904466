@@ -293,17 +293,12 @@
       ],
       "images": [
         {
-          "file": "File:Claude Meisch, Jukowo Jugendkonschtwoch 2014-001.jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Claude_Meisch%2C_Jukowo_Jugendkonschtwoch_2014-001.jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Claude_Meisch%2C_Jukowo_Jugendkonschtwoch_2014-001.jpg",
-          "caption": "Claude Meisch, May 2014.",
-          "links": []
-        }
-      ],
-      "templates": [
-        {
-          "description": "Luxembourgish politician",
-          "template": "short description"
+          "file": "File:Claude Meisch (DP).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Claude_Meisch_(DP).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Claude_Meisch_(DP).jpg",
+          "caption": "Claude Meisch",
+          "links": [],
+          "alt": "Claude Meisch"
         }
       ]
     }
