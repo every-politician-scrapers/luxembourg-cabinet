@@ -1,225 +1,26 @@
 {
-  "title": "Paulette Lenert",
-  "pageID": 61863032,
-  "categories": [
-    "Women government ministers of Luxembourg",
-    "Luxembourg Socialist Workers' Party politicians",
-    "Luxembourgian lawyers",
-    "Women lawyers",
-    "Paul Cézanne University alumni",
-    "Alumni of the University of London",
-    "1968 births",
-    "People from Luxembourg City",
-    "Living people",
-    "Alumni of the Athénée de Luxembourg"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Paulette Lenert (born on 31 May 1968 in Luxembourg City) is a Luxembourg lawyer and politician of the Luxembourg Socialist Workers' Party.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Luxembourg City"
-                },
-                {
-                  "type": "internal",
-                  "page": "Luxembourg"
-                },
-                {
-                  "type": "internal",
-                  "page": "Luxembourg Socialist Workers' Party"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Paulette Lenert"
-                ]
-              }
-            },
-            {
-              "text": "She currently holds the positions of Deputy Prime Minister, Minister of Health, Minister Delegate of Social Security, and Minister of Consumer Protection."
-            },
-            {
-              "text": "She was Minister of Development Cooperation and Humanitarian Affairs from 5 December 2018 to 4 February 2020."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Luxembourg lawyer and politician",
-          "template": "short description"
-        },
-        {
-          "year": "1968",
-          "month": "05",
-          "day": "31",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Paulette Lenert"
-          },
-          "office": {
-            "text": "Deputy Prime Minister of Luxembourg"
-          },
-          "primeminister": {
-            "text": "Xavier Bettel",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Xavier Bettel"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "5 January 2022"
-          },
-          "predecessor": {
-            "text": "Dan Kersch",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dan Kersch"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister of Health"
-          },
-          "primeminister2": {
-            "text": "Xavier Bettel",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Xavier Bettel"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "4 February 2020"
-          },
-          "predecessor2": {
-            "text": "Etienne Schneider",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Etienne Schneider"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister of Consumer Protection of Luxembourg"
-          },
-          "primeminister3": {
-            "text": "Xavier Bettel",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Xavier Bettel"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "5 December 2018"
-          },
-          "predecessor3": {
-            "text": "Fernand Etgen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Fernand Etgen"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Minister of Development Cooperation and Humanitarian Affairs"
-          },
-          "primeminister4": {
-            "text": "Xavier Bettel",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Xavier Bettel"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "5 December 2018"
-          },
-          "term_end4": {
-            "text": "4 February 2020"
-          },
-          "predecessor4": {
-            "text": "Romain Schneider",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Romain Schneider"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Franz Fayot",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Franz Fayot"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "May 31, 1968"
-          },
-          "birth_place": {
-            "text": "Luxembourg City",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Luxembourg City"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Luxembourgish",
-            "links": [
-              {
-                "text": "Luxembourgish",
-                "type": "internal",
-                "page": "Luxembourg"
-              }
-            ]
-          },
-          "party": {
-            "text": "Luxembourg Socialist Workers' Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Luxembourg Socialist Workers' Party"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University Aix-Marseille III",
-            "links": [
-              {
-                "text": "University Aix-Marseille III",
-                "type": "internal",
-                "page": "Paul Cézanne University"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Paulette Lenert",
+  "office": "Deputy Prime Minister of Luxembourg",
+  "primeminister": "Xavier Bettel",
+  "term_start": "5 January 2022",
+  "predecessor": "Dan Kersch",
+  "office2": "Minister of Health",
+  "primeminister2": "Xavier Bettel",
+  "term_start2": "4 February 2020",
+  "predecessor2": "Etienne Schneider",
+  "office3": "Minister of Consumer Protection of Luxembourg",
+  "primeminister3": "Xavier Bettel",
+  "term_start3": "5 December 2018",
+  "predecessor3": "Fernand Etgen",
+  "office4": "Minister of Development Cooperation and Humanitarian Affairs",
+  "primeminister4": "Xavier Bettel",
+  "term_start4": "5 December 2018",
+  "term_end4": "4 February 2020",
+  "predecessor4": "Romain Schneider",
+  "successor4": "Franz Fayot",
+  "birth_date": "May 31, 1968",
+  "birth_place": "Luxembourg City",
+  "nationality": "Luxembourgish",
+  "party": "Luxembourg Socialist Workers' Party",
+  "alma_mater": "University Aix-Marseille III"
 }
