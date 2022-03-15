@@ -1,0 +1,54 @@
+id,name,relationship,relative,relativename
+Q106476317,Nathalie Oberweis,father,Q3866853,Marcel Oberweis
+Q13102657,François Maroldt,sibling,Q108705149,Ed Maroldt
+Q13103001,Henri Kox,relative,Q69522486,Chantal Gary
+Q13105458,Yves Cruchten,father,Q66720374,Alphonse Cruchten
+Q1384206,Michel Wolter,father,Q15196585,Jean Wolter
+Q144205,Ben Fayot,child,Q16439160,Franz Fayot
+Q1450922,François Biltgen,sibling,Q241282,Raoul Biltgen
+Q15988,"Jean, Grand Duke of Luxembourg",child,Q16004,"Henri, Grand Duke of Luxembourg"
+Q15988,"Jean, Grand Duke of Luxembourg",child,Q1653603,Princess Margaretha of Luxembourg
+Q15988,"Jean, Grand Duke of Luxembourg",child,Q1657677,Archduchess Marie-Astrid of Austria
+Q15988,"Jean, Grand Duke of Luxembourg",child,Q2188802,Prince Jean of Luxembourg
+Q15988,"Jean, Grand Duke of Luxembourg",child,Q646338,Prince Guillaume of Luxembourg
+Q15988,"Jean, Grand Duke of Luxembourg",father,Q445045,Prince Félix of Bourbon-Parma
+Q15988,"Jean, Grand Duke of Luxembourg",mother,Q155608,"Charlotte, Grand Duchess of Luxembourg"
+Q15988,"Jean, Grand Duke of Luxembourg",sibling,Q1124323,Prince Charles of Luxembourg
+Q15988,"Jean, Grand Duke of Luxembourg",sibling,Q1941967,Princess Marie-Adélaïde of Luxembourg
+Q15988,"Jean, Grand Duke of Luxembourg",sibling,Q1943454,Princess Marie Gabriele of Luxembourg
+Q15988,"Jean, Grand Duke of Luxembourg",sibling,Q2431719,Princess Alix of Luxembourg
+Q15988,"Jean, Grand Duke of Luxembourg",sibling,Q973502,"Princess Elisabeth, Duchess of Hohenberg"
+Q15988,"Jean, Grand Duke of Luxembourg",spouse,Q160984,Princess Joséphine-Charlotte of Belgium
+Q16004,"Henri, Grand Duke of Luxembourg",child,Q161319,"Guillaume, Hereditary Grand Duke of Luxembourg"
+Q16004,"Henri, Grand Duke of Luxembourg",child,Q316797,Prince Félix of Luxembourg
+Q16004,"Henri, Grand Duke of Luxembourg",child,Q618634,Prince Louis of Luxembourg
+Q16004,"Henri, Grand Duke of Luxembourg",child,Q619598,Princess Alexandra of Luxembourg
+Q16004,"Henri, Grand Duke of Luxembourg",child,Q619855,Prince Sébastien of Luxembourg
+Q16004,"Henri, Grand Duke of Luxembourg",father,Q15988,"Jean, Grand Duke of Luxembourg"
+Q16004,"Henri, Grand Duke of Luxembourg",mother,Q160984,Princess Joséphine-Charlotte of Belgium
+Q16004,"Henri, Grand Duke of Luxembourg",sibling,Q1653603,Princess Margaretha of Luxembourg
+Q16004,"Henri, Grand Duke of Luxembourg",sibling,Q1657677,Archduchess Marie-Astrid of Austria
+Q16004,"Henri, Grand Duke of Luxembourg",sibling,Q2188802,Prince Jean of Luxembourg
+Q16004,"Henri, Grand Duke of Luxembourg",sibling,Q646338,Prince Guillaume of Luxembourg
+Q16004,"Henri, Grand Duke of Luxembourg",spouse,Q230644,"Maria Teresa, Grand Duchess of Luxembourg"
+Q16439020,Francine Closener,spouse,Q16440093,Jay Schiltz
+Q16439160,Franz Fayot,father,Q144205,Ben Fayot
+Q16439752,Mill Majerus,child,Q13101713,Benoît Majerus
+Q1685833,Jean Spautz,child,Q6755887,Marc Spautz
+Q204094,Mars Di Bartolomeo,child,Q55719690,Anja Di Bartolomeo
+Q286466,Charles Goerens,father,Q28045006,Gust Goerens
+Q2978289,Claude Wiseler,spouse,Q64034615,Isabel Wiseler-Santos Lima
+Q3866853,Marcel Oberweis,child,Q106476317,Nathalie Oberweis
+Q451544,Colette Flesch,relative,Q106407134,Auguste Flesch
+Q451696,Lydie Polfer,father,Q2284774,Camille Polfer
+Q453405,Jeannot Krecké,father,Q13104080,Mathias Krecké
+Q51919412,Simone Asselborn-Bintz,father,Q16438954,Aly Bintz
+Q51919412,Simone Asselborn-Bintz,mother,Q13104159,Micky Erpelding
+Q51919412,Simone Asselborn-Bintz,sibling,Q110463413,Jean-Claude Bintz
+Q51919412,Simone Asselborn-Bintz,sibling,Q110600993,Brigitte Bintz
+Q561213,Xavier Bettel,spouse,Q30069025,Gauthier Destenay
+Q57661,Jean-Claude Juncker,spouse,Q24852087,Christiane Frising
+Q6755887,Marc Spautz,father,Q1685833,Jean Spautz
+Q69522486,Chantal Gary,relative,Q13103001,Henri Kox
+Q728060,Laurent Mosar,father,Q1986701,Nicolas Mosar
+Q739485,Paul Helminger,child,Q20558561,Thierry Helminger
