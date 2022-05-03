@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Luxembourg",
+      "id": "Q32"
+    },
+    "cabinet": {
+      "id": "Q110473015",
+      "start": "2020-02-04",
+      "parent": "Q25056658"
+    },
+    "source": {
+        "url":   "https://gouvernement.lu/en/gouvernement.html",
+        "title": "The Government - government.lu",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/luxemburg-cabinet"
+}
