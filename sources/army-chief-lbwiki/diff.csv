@@ -1,11 +1,4 @@
-@@,itemlabel,item,startdate,enddate
-+++,Michel Mayer,,1967-07-15,1972-10-09
-+++,Pierre Dauffenbach,,1972-10-09,1976-02-04
-+++,Jean Betz,,1976-02-04,1980-03-09
-+++,François Welfring,,1980-03-09,1984-05-13
-+++,Nicolas Ley,,1984-05-13,1988-02-21
-+++,Armand Bruck,,1988-02-21,1994-11-04
-+++,Michel Gretsch,,1994-11-04,1998-07-02
-->,Romain Mancinelli,Q20731381,2014-01-01->2014-12-02,2017-01-01->2017-09-28
-->,Alain Duschène,Q41548295,2017-09-30->2017-09-29,2020-09-29
-->,Steve Thull,Q99753762,2020-09-29->2020-09-30,NULL->-
+@@,item,itemlabel,startdate,enddate
+->,Q20731381,Romain Mancinelli,2014->2014-12-02,2017->2017-09-28
+->,Q41548295,Alain Duschène,2017-09-30->2017-09-29,2020-09-29
+->,Q99753762,Steve Thull,2020-09-29->2020-09-30,
